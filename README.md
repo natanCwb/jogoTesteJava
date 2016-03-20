@@ -8,4 +8,4 @@ Is my first game
 but I'm learning the lenguage yet!
 
 
-tnsk!
+tnks!
